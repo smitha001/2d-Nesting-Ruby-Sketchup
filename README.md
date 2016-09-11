@@ -12,7 +12,7 @@ I've got the following issues:
 3. I probably need to go back and add in circular arcs...but I might wait till after I've got optimising algorithm working
 
 
-I base my work upon the good work of Jack Qiao (https://github.com/Jack000/SVGnest). Who inspired me to have a go at my own sketchup based code.
+I base my work upon the good work of Jack Qiao (https://github.com/Jack000/SVGnest). Who inspired me to have a go at my own sketchup based code. I only got this far by standing on his shoulders.
 
 I'd one day like to be able to generate CNC code with this stuff....but that is so far away, it's not worth thinking about.
  
