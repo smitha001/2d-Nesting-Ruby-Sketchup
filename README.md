@@ -11,6 +11,8 @@ I've got the following issues:
 
 3. I probably need to go back and add in circular arcs...but I might wait till after I've got optimising algorithm working
 
+4. I've got to do an optimising routine....currently I only have the no-fit-polygfon done (inner-fit)
+
 
 I base my work upon the good work of Jack Qiao (https://github.com/Jack000/SVGnest). Who inspired me to have a go at my own sketchup based code. I only got this far by standing on his shoulders.
 
